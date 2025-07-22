@@ -38,3 +38,13 @@ Retail Sales Analytics Dashboard 📊:
 
 Thanks to @CourseMea for guiding this journey!
 If you liked this project, feel free to connect with me on LinkedIn[ Naqeeb Ur Rehman ].
+
+Links :-
+1) GitHub Repository:
+https://github.com/Naqeeb-00/Retail_Sales_Dashboard
+
+2) LinkedIn Post:
+https://www.linkedin.com/posts/naqeeb-ur-rehman-27b357351_powerbi-python-businessanalytics-activity-7353503064483319808-A6ZU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFfLeb8BpsqpEalUKiXW4feGu1JCR_-Dcvo
+
+3) Google Drive (Project Backup):
+https://drive.google.com/drive/folders/1zBSgpsP-pAYglANz_hhnWuvWHrP0ws0e?usp=sharing
